@@ -1,1 +1,2 @@
+# TIC TAC TOE (Tkinter)
 This Tic Tac Toe game is developed using Python and Tkinter to create an interactive graphical user interface. The game features a 3x3 grid of buttons where two players can take turns marking their symbols ("X" or "O"). The game logic checks for winning combinations or ties after each move, updating the game status accordingly. A reset button allows players to start a new game without restarting the application.
