@@ -4,6 +4,3 @@ I have created this game as an example project for the course on udemy - Python 
 
 It's a basic tic-tac-toe game created in a jupyter notebook environment, allows two players to play.
 
-## Changes made in vscode
-
-I'm learning to make changes locally on my computer
